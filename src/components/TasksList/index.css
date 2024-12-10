@@ -1,0 +1,22 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  justify-content: space-around;
+}
+
+.tags {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.button {
+  padding: 6px;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  border-radius: 6px;
+}
